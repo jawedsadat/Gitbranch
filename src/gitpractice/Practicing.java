@@ -10,4 +10,7 @@ public class Practicing {
 	public void test () {
 		System.out.println("This is for remote from local");
 	}
+	public void testTwo () {
+		System.out.println("This is for remote from local");
+	}
 }
